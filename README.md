@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <h1 style="color: #333;">DevAuction</h1>
+  <h1 style="color: #333;">AuctiGram</h1>
   <p>A full-stack project that connects developers with buyers, ensuring fair compensation for innovative projects.</p>
 
   <h2 style="color: #333;">Table of Contents</h2>
@@ -24,10 +24,10 @@
   </ul>
 
   <h2 id="project-description" style="color: #333;">Project Description</h2>
-  <p>DevAuction is a platform that allows developers to showcase and auction their projects, ensuring they receive fair compensation. Buyers can bid on projects, and the winner receives the source code. Our platform provides a seamless marketplace, bridging the gap between creators and consumers efficiently and fairly.</p>
+  <p>AuctiGram is a platform that allows developers to showcase and auction their projects, ensuring they receive fair compensation. Buyers can bid on projects, and the winner receives the source code. Our platform provides a seamless marketplace, bridging the gap between creators and consumers efficiently and fairly.</p>
 
   <h2 id="deployment-link" style="color: #333;">Project Link</h2>
-  <p><a href="https://dev-auction.vercel.app">DevAuction</a></p>
+  <p><a href="https://dev-auction.vercel.app">AuctiGram</a></p>
 
   <h2 id="features" style="color: #333;">Features</h2>
   <ul>
@@ -50,7 +50,7 @@
   </ol>
 
   <h2 id="usage" style="color: #333;">Usage</h2>
-  <p>DevAuction is a platform that connects developers with buyers, ensuring fair compensation for innovative projects. To use the platform, follow these steps:</p>
+  <p>AuctiGram is a platform that connects developers with buyers, ensuring fair compensation for innovative projects. To use the platform, follow these steps:</p>
   <ol>
     <li>Register as a developer or buyer on the platform.</li>
     <li>Developers can create and showcase their projects, while buyers can browse and bid on projects.</li>
@@ -62,7 +62,7 @@
 
   
   <h2 id="future-development" style="color: #333;">Future Development</h2>
-  <p>We plan to add more features to DevAuction, including:</p>
+  <p>We plan to add more features to AuctiGram, including:</p>
   <ul>
     <li>Rating system for buyers and sellers</li>
     <li>Project categorization and filtering</li>
