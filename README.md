@@ -26,8 +26,6 @@
   <h2 id="project-description" style="color: #333;">Project Description</h2>
   <p>AuctiGram is a platform that allows developers to showcase and auction their projects, ensuring they receive fair compensation. Buyers can bid on projects, and the winner receives the source code. Our platform provides a seamless marketplace, bridging the gap between creators and consumers efficiently and fairly.</p>
 
-  <h2 id="deployment-link" style="color: #333;">Project Link</h2>
-  <p><a href="https://dev-auction.vercel.app">AuctiGram</a></p>
 
   <h2 id="features" style="color: #333;">Features</h2>
   <ul>
